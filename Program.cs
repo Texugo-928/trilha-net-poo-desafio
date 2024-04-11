@@ -1,6 +1,8 @@
 ﻿using DesafioPOO.Models;
 ﻿using System.Text;
 
+//TODO: Testar no VSCode...
+
 Console.OutputEncoding = Encoding.UTF8;
 
 // Cria um Nokia
